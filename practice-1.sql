@@ -4,4 +4,4 @@
 -- | 302750   |
 -- +----------+
 
-
+SELECT COUNT(listing_id) FROM reviews;
